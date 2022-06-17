@@ -3,7 +3,7 @@ body {
     /* background: linear-gradient(to top left, #211E55, #261E47); */
 }
 
-h1 {
+.sidenav {
     text-align: left;
     color: rgb(69, 184, 110)
 }
